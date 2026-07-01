@@ -1,0 +1,39 @@
+canonical_identifier: bkk:krp/KR6j0187/v1
+canonical_location: https://kanripo.org/bkk/KR6j0187/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說迴向輪經
+  identifiers:
+    alt_id:
+    - T19n0998
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0998.xml
+    old_id: T19n0998
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0187_000.yaml, hash: 'sha256:6b6edc8c9bcc0b66004a59c9ff54fdd9be88d9fa817bf7e087d55c4b7550d728'}
+  - {seq: 1, filename: KR6j0187_001.yaml, hash: 'sha256:7e1bf30da7683cd8deefca76f159c751fb289515ac738e46d805cb1e70447a52'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0187_001.markers.yaml, hash: 'sha256:70b3e668dcd2c4ff98d20312d054eb7aff10428fc088c6be6990dc32d7c054c8'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0187_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1526
+  label: 佛說迴向輪經一卷
+  type: juan
+  level: 1
+hash: sha256:ae89d8a9fe390de6e1afe5c4517b8f911f6cb5e6770b2d66220bc0c117dd80ca
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+editions:
+- short: T

@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0187/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說迴向輪經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T19/T19n0998.xml
+    old_id: T19n0998
+hash: sha256:6b6edc8c9bcc0b66004a59c9ff54fdd9be88d9fa817bf7e087d55c4b7550d728

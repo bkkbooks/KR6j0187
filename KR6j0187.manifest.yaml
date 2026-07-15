@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0187/v1
 canonical_location: https://kanripo.org/bkk/KR6j0187/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說迴向輪經
   identifiers:
@@ -17,10 +17,10 @@ metadata:
 assets:
   parts:
   - {seq: 0, filename: KR6j0187_000.yaml, hash: 'sha256:6b6edc8c9bcc0b66004a59c9ff54fdd9be88d9fa817bf7e087d55c4b7550d728'}
-  - {seq: 1, filename: KR6j0187_001.yaml, hash: 'sha256:ece75e04a061b3a1a2406f105250ebf43db3fcce223d0d904b30027c07ac77be'}
+  - {seq: 1, filename: KR6j0187_001.yaml, hash: 'sha256:6ebd72a323e1d19c90ff92f530e6aa405fefaa0d6965fd495a9eb436aad1c612'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6j0187_000.markers.yaml, hash: 'sha256:95177f00fa0ac521615c9b9d7a940ce93ef7ac416dbc1fc296598d8595d64ded'}
-  - {seq: 1, role: markers, filename: assets/KR6j0187_001.markers.yaml, hash: 'sha256:fc32497d7d63b01dfe3d47a1385a1a1cdcd54d3f13f753240bee796e3025119b'}
+  - {seq: 1, role: markers, filename: assets/KR6j0187_001.markers.yaml, hash: 'sha256:730755553cd1f402dc0a6be20b6596a979fbdc2e71d1e8119f6091f2ca374933'}
 table_of_contents:
 - ref:
     seq: 1
@@ -32,6 +32,9 @@ table_of_contents:
   label: 佛說迴向輪經一卷
   type: juan
   level: 1
-hash: sha256:d12d40db5ac9bfa9d78d5bab789ff4bf2a27e492bfa9e4d6a6b1e72beab3cf08
+hash: sha256:f008ce0ee04b90a8db5f3fdbbd873ad26c3453dc9c83bc7076ad372ec6e60ef5
 editions:
 - short: T
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
